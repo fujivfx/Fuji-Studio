@@ -1,0 +1,1 @@
+# Arquivo geral da Fuji Studio
